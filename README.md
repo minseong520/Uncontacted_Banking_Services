@@ -14,17 +14,17 @@
 
 #### 2.1 프로그래밍 언어
 
-- python 3.7
+- python 3.8
 
 #### 2.2 사용한 라이브러리 목록 및 버전
 
-- pip install scikit-learn 
+- scikit-learn 
   - 0.21.3 version
-- pip install graphviz 
-  - 2.38 version - 해당 버전이 아닐 경우 라이브러리의 원활한 실행이 안될 수도 있음, 환경변수 설정 필수
-- pip install geopandas
+- graphviz 
+  - 2.38 version - 환경변수 설정 필수
+- geopandas
   - 0.6.1 version
-- pip install folium
+- folium
   - 0.11.0 version
 
 ## 3. 사용방법
